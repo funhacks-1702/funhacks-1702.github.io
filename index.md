@@ -1,9 +1,25 @@
-## Welcome to GitHub Pages
+## GitBook
 
-You can use the [editor on GitHub](https://github.com/funhacks-1702/funhacks-1702.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+GitBookは名前の通り、書籍の管理をGitで行うことができるアプリです！   
+読み終わった本をアプリに登録することで、github.ioドメインにて自分が読んだ本をポートフォリオとして多くの人に公開することができます。   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 機能紹介
+### 書籍の登録　　
+* バーコート検索
+* 本名検索
 
+### 本棚の機能
+* フィルタ
+* 並べ替え
+* タグ付け
+* 本の一覧・詳細表示
+*　本棚分別
+
+### Gitの機能
+* Pagesで公開
+
+
+<!---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -35,3 +51,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+--->
